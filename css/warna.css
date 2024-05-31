@@ -1,0 +1,51 @@
+body {
+    background-color: #f7f7f7;
+    font-family: 'Roboto', sans-serif;
+}
+
+.login-form {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.modal .modal-content {
+    border-radius: 10px;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.modal-footer {
+    border-top: none;
+}
+
+.number-btn {
+    width: 60px;
+    height: 60px;
+    font-size: 1.5em;
+    color: #007bff;
+    border-color: #007bff;
+    position: relative;
+}
+
+.number-btn small {
+    position: relative;
+}
+
+.telegram-bg {
+    background-color: #0088cc;
+    background-image: url('../g1.jpg');
+    background-size: cover;
+}
+
+
+.bg-orange {
+    background:transparent
+}
